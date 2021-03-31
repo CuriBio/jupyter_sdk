@@ -1,1 +1,1 @@
-# mybinder_sdk
+# jupyter_sdk
