@@ -13,4 +13,4 @@ stdlib_utils==0.4.3
 openpyxl==3.0.7
 labware-domain-models==0.3.1
 requests==2.25.1
-curibio.sdk==0.13.2
+curibio.sdk==0.13.1
