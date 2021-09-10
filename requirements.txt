@@ -1,3 +1,4 @@
 # pip install -r requirements.txt
-
+mantarray-file-manager==0.5.1
+mantarray-waveform-analysis==1.0.3
 curibio.sdk==0.16.1
