@@ -2,4 +2,4 @@
 # mantarray-file-manager==0.5.1
 # mantarray-waveform-analysis==1.1.1
 # curibio.sdk==0.18.1
-pulse3d==0.19.0
+pulse3d==0.19.1
